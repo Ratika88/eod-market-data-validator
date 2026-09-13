@@ -1,0 +1,7 @@
+Timestamp,Ticker,AssetClass,Price,Volume,Status
+2026-09-12 16:00:01,RY,Equity,142.50,1200500,Active
+2026-09-12 16:00:02,TD,Equity,84.20,950000,Active
+2026-09-12 16:00:03,BMO,Equity,,450000,Active
+2026-09-12 16:00:04,CM,Equity,-12.30,310000,Active
+2026-09-12 16:00:05,BNS,Equity,71.10,0,Stale
+2026-09-12 16:00:06,SHOP,Equity,9800.00,1500000,Active
